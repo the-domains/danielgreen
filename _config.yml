@@ -1,19 +1,4 @@
-name: DanielGreen
-favicon: null
-layout_spectrum: 0.75703
 typography_spectrum: 0.50083
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,23 @@ color:
   lightness: 0.3759756311774254
   saturation: 0.08569534355774522
   rhythmicContrast: 0.9795960753690451
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75703
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DanielGreen
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: The Googz
+    url: google.com
+    type: external
+favicon: null
 purpose: []
